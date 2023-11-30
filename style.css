@@ -128,7 +128,7 @@ section{
 /* Fundo 1 */
 
 .section-1 {
- background-image: url('../img/section-a.webp');
+ background-image: url('./img/section-a.webp');
 }
 .btn {
     position: relative;
